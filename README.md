@@ -3,10 +3,10 @@
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/BlakeGeo/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/BlakeGeo/README-generator"  />
-    <img src="https://img.shields.io/github/issues/BlakeGeo/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/BlakeGeo/README-generator" >
+    <img src="https://img.shields.io/github/repo-size/BlakeGeo/README-Generator" />
+    <img src="https://img.shields.io/github/languages/top/BlakeGeo/README-Generator"  />
+    <img src="https://img.shields.io/github/issues/BlakeGeo/README-Generator" />
+    <img src="https://img.shields.io/github/last-commit/BlakeGeo/README-Generator" >
 </p>
   
 <p align="center">
